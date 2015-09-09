@@ -1,25 +1,9 @@
-Halcyonic by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A somewhat unusual but interesting responsive site template. I did this one to test out a
-new pattern set I put together and I think it really came together well. As for use cases
-it's kind of unspecific so hey, use it for whatever.
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+=====================
+||Aerial Developers||
+=====================
+This is the current website and html that TheCryptek is currently working on to put the website
+back online. It will take quiet some time before it is officially finished as TheCryptek has had 
+issues with his PC. He has had to re-install Windows 7 as Windows 10 came up with "INACCESSABLE_BOOT_DEVICE".
+Upon finishing, this repository will not be touched other then usual changes, and a new project repository 
+will be created. Once the first project is done, this repository will be deleted so there is room for
+project repositories.
